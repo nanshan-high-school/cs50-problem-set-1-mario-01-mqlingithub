@@ -12,10 +12,6 @@ int main() {
       for (int b=0;b<=a;b++) {
         cout << "#";
       }
-      cout << "  ";
-      for (int b=0;b<=a;b++) {
-        cout << "#";
-      }
       cout << "\n";
     }
     cout << "高度:" << height << "\n";
